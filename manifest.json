@@ -1,0 +1,9 @@
+{
+  "name": "Mystery 47",
+  "short_name": "Mystery 47",
+  "description": "Live tracker for the Brighton & Hove 47 bus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1923",
+  "theme_color": "#0f1923"
+}
